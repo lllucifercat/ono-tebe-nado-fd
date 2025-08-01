@@ -92,7 +92,7 @@
   text-align: end;
 }
 
-.cover__description{
+.cover__description {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
